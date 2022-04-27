@@ -1,5 +1,5 @@
 # -*- python -*-
-# Copyright (C) 2009-2020 Free Software Foundation, Inc.
+# Copyright (C) 2009-2021 Free Software Foundation, Inc.
 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@ import gdb
 import os
 import os.path
 
-pythondir = '/mnt/f/gnu/risc-v-2020-06/out/share/gcc-10.1.0/python'
-libdir = '/mnt/f/gnu/risc-v-2020-06/out/riscv64-unknown-elf/lib/rv64imac/lp64'
+pythondir = '/home/builder/riscv64-gnu-toolchain-win/share/gcc-11.1.0/python'
+libdir = '/home/builder/riscv64-gnu-toolchain-win/riscv64-unknown-elf/lib/rv64imac/lp64'
 
 # This file might be loaded when there is no current objfile.  This
 # can happen if the user loads it manually.  In this case we don't

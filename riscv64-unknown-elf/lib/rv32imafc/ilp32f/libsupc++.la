@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/mnt/f/gnu/risc-v-2020-06/out/riscv64-unknown-elf/lib/rv32imafc/ilp32f'
+libdir='/home/builder/riscv64-gnu-toolchain-win/riscv64-unknown-elf/lib/rv32imafc/ilp32f'

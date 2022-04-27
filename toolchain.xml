@@ -9,9 +9,9 @@
 	<BuiltInBSPs>
 		<string>risc-v-bsp</string>
 	</BuiltInBSPs>
-	<GCCVersion>10.1.0</GCCVersion>
-	<GDBVersion>9.1</GDBVersion>
+	<GCCVersion>11.1.0</GCCVersion>
+	<GDBVersion>10.1</GDBVersion>
 	<Revision>1</Revision>
-	<BinutilsVersion>2.34</BinutilsVersion>
-	<LIBCVersion>3.2.0</LIBCVersion>
+	<BinutilsVersion>2.38</BinutilsVersion>
+	<LIBCVersion>2.31.0</LIBCVersion>
 </Toolchain>
